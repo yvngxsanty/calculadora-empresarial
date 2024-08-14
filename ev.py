@@ -32,8 +32,6 @@ SMLV=5850000
 
 from colorama import Fore, Style
 
-from colorama import Fore, Style
-
 def imprimir_logo_con_color():
     """Prints a colorful logo to the console using Colorama."""
 
